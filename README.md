@@ -9,13 +9,13 @@ maskrcnn paper document analysis
 ## 例子🌰(Demo)
 - 修改inference 中main函数所需路径
 
-```python inference.py```
+- ```python inference.py```
 
 ## 训练(train)
 - 修改train_test.py  COCO_MODEL_PATH 为模型路径
 - 可以更改ShapesConfig配置进行优化
 - 如果添加或减少类别需要对应修改 NUM_CLASSES 与 self.add_class， labels_form.append
-```python train_test.py```
+- ```python train_test.py```
 
 ## data制作
 - 参考maskrcnn的制作 其中本rep有需要用到的脚本
