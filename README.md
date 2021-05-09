@@ -25,8 +25,8 @@ maskrcnn paper document analysis
 ![1](https://github.com/tommyMessi/docAnalysis/blob/main/assets/1.png)
 ![2](https://github.com/tommyMessi/docAnalysis/blob/main/assets/2.png)
 ![3](https://github.com/tommyMessi/docAnalysis/blob/main/assets/3.png)
-![3](https://github.com/tommyMessi/docAnalysis/blob/main/assets/4.png)
-![3](https://github.com/tommyMessi/docAnalysis/blob/main/assets/5.png)
+![4](https://github.com/tommyMessi/docAnalysis/blob/main/assets/4.png)
+![5](https://github.com/tommyMessi/docAnalysis/blob/main/assets/5.png)
 
 ## model
 - 预训练模型： 链接: https://pan.baidu.com/s/13ehRSpaU-_T4diWjcRqHaA 提取码: nkmc 复制这段内容后打开百度网盘手机App，操作更方便哦
